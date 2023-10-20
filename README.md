@@ -1,1 +1,1 @@
-# ccp_mobile_view
+# f23_common_project_starter_code
